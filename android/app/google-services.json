@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732430265586",
+    "project_id": "vinescart",
+    "storage_bucket": "vinescart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732430265586:android:58db3399a89ca745d0346b",
+        "android_client_info": {
+          "package_name": "com.example.vinescart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732430265586-1qje6dm819qs8jf73j4u5hr80ni249s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt1UfAi8dxvjV6TfyudzME-Z7uJOXOTLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732430265586-1qje6dm819qs8jf73j4u5hr80ni249s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
